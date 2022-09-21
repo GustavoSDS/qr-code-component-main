@@ -74,8 +74,8 @@ p{
 
 /* Media queries for desktop */
 
-/* @media screen and (min-width:900px) {
+@media screen and (min-width:900px) {
     .main-container{
         margin: 152px auto;
     }
-} */
+}
