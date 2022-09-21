@@ -24,7 +24,7 @@ body {
     margin: 85px auto;
     background-color: var(--White);
     width: 320px;
-    height: 500px;
+    height: 497px;
     padding: 16px;
     border-radius: 19px;
     overflow: hidden;
@@ -71,8 +71,8 @@ p{
 
 /* Media queries for desktop */
 
-@media screen and (min-width:900px) {
+/* @media screen and (min-width:900px) {
     .main-container{
         margin: 152px auto;
     }
-}
+} */
