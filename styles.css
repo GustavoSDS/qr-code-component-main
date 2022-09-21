@@ -44,19 +44,22 @@ body {
 }
 
 h1{
-    color: var(--GrayishBlue);
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-weight: 700;
     text-align: center;
     margin-bottom: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+    line-height: normal;
 }
 
 p{
     color: var(--GrayishBlue);
     font-weight: 400;
-    letter-spacing: .8px;
     text-align: center;
     margin-bottom: 44px;
+    padding-left: 14px;
+    padding-right: 14px;
 }
 
 /*              Footer               */
