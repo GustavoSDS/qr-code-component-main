@@ -15,5 +15,6 @@
 .DS_Store
 .prettierignore
 /sass
+/design
 README-template.md
-style-guide.md,
+style-guide.md
