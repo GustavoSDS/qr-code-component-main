@@ -16,4 +16,4 @@
 .prettierignore
 /sass
 README-template.md
-style-guide.md
+style-guide.md,
